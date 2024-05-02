@@ -130,6 +130,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Retrieval-Augmented LLM
 - A Survey on Retrieval-Augmented Text Generation, 2022.02 [[paper]](https://arxiv.org/abs/2202.01110)
 - Retrieval-Augmented Generation for Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.10997.pdf) [[project]](https://github.com/Tongji-KGLLM/RAG-Survey)
+- RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing, 2024.04 [[paper]](https://arxiv.org/pdf/2404.19543)
 ---
 
 ## Challenge of LLM
@@ -149,6 +150,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Augmenting LLMs with Knowledge: A survey on hallucination prevention, 2023.09 [[paper]](https://arxiv.org/pdf/2309.16459.pdf)
 - A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models, 2024.01 [[paper]](https://arxiv.org/pdf/2401.01313.pdf)
 - Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment, 2023.08 [[paper]](https://arxiv.org/abs/2308.05374)
+- Hallucination of Multimodal Large Language Models: A Survey, 2024.04 [[paper]](https://arxiv.org/pdf/2404.18930)
 
 ### Compression for LLM
 - A Survey on Model Compression for Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.07633)
@@ -243,6 +245,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Continual Learning of LLM
 - Continual Learning with Pre-Trained Models: A Survey, 2024.01 [[paper]](https://arxiv.org/pdf/2401.16386) [[project]](https://github.com/sun-hailong/LAMDA-PILOT)
+- Continual Learning of Large Language Models: A Comprehensive Survey, 2024.04 [[paper]](https://arxiv.org/pdf/2404.16789)
 
 ---
 
