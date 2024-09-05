@@ -91,7 +91,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## Training of LLM
 
 ### Instruction Tuning
-- Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning, 2023.03 [[paper]](https://arxiv.org/pdf/2303.10475.pdf) [[project]](https://github.com/RenzeLou/awesome-instruction-learning)
+- Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning, 2023.03 [[paper]](https://arxiv.org/pdf/2303.10475.pdf) [[project]](https://github.com/kbsdjames/awesome-LLM-preference-learning)
   
 - Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [[paper]](https://arxiv.org/abs/2311.08172)[[project]](https://github.com/palchenli/VL-Instruction-Tuning)
   
@@ -100,6 +100,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - A Survey on Data Selection for LLM Instruction Tuning, 2024.02 [[paper]](https://arxiv.org/pdf/2402.05123.pdf)
 
 ### Human Alignment for LLM
+- Towards a Unified View of Preference Learning for Large Language Models: A Survey, 2024.09 [[paper]](https://arxiv.org/pdf/2409.02795)[[project]](https://www.alignmentsurvey.com)
+
 - AI Alignment: A Comprehensive Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19852)[[project]](https://www.alignmentsurvey.com)
   
 - Large Language Model Alignment: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.15025)
@@ -255,6 +257,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Visual LLM
+- A Survey on Benchmarks of Multimodal Large Language Models. 2024,08 [[paper]](https://arxiv.org/pdf/2408.08632)[[project]](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey)
 - The (R)Evolution of Multimodal Large Language Models: A Survey, 2024,02 [[paper]](https://arxiv.org/abs/2402.12451)
 - Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [[paper]](https://arxiv.org/abs/2311.08172)[[project]](https://github.com/palchenli/VL-Instruction-Tuning)
 - How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07594.pdf)
